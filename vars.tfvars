@@ -9,7 +9,7 @@ aws_profile = "default" // The AWS profile configured for credentials OR matchin
 
 aws_cred_file = "~/.aws/credentials" // An AWS credentials file to specify your credentials
 
-aws_region = "" // The AWS region to deploy the appliance in
+aws_region = "" // Customer AWS region
 
 alert_logic_aws_account_id = "" //AlertLogic AWS Account ID
 
